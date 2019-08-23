@@ -5,6 +5,6 @@ Features for BU/ Marketing
  - Attrition Analytics
  - Management Dashboards by RM, Branch, Region, FE
 Features for Customer
- - Portfolio - NPV, FV, Abs Return, IRR
+ - Portfolio - NPV, RAR, Abs Return, IRR, expected income
  - Financial Planner
  - Next Best Product
